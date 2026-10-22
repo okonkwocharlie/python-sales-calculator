@@ -105,8 +105,14 @@ Through this project, I practised:
 - Add a graphical user interface.
 - Add automated tests.
 
+## What I learned
+
+- How to use Git
+- How to create commits
+- How to upload a project to GitHub
+
 ## Author
 
 **OKONKWO CHARLES**
 
-- GitHub: [okonkwocharlie](https://github.com/YOUR-USERNAME)
+- GitHub: [okonkwocharlie](https://github.com/okonkwocharlie)
